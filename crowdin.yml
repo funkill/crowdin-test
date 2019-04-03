@@ -1,3 +1,4 @@
+preserve_hierarchy: true
 files:
   - source: /src/
     translation: /translations/%two_letters_code%/
