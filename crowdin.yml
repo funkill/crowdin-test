@@ -1,3 +1,3 @@
 files:
-  - source: /src
-    translation: /translations/%two_letters_code%
+  - source: /src/
+    translation: /translations/%two_letters_code%/
