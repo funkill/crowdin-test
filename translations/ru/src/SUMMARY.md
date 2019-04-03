@@ -1,4 +1,4 @@
 # Краткое содержание
 
 - [Глава 1](./chapter_1.md)
-- [Chapter 2](./chapter_2/index.md)
+- [Глава 2](./chapter_2/index.md)
